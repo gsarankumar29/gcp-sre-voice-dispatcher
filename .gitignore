@@ -1,0 +1,14 @@
+# Environment
+.env
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+
+# IDE
+.vscode/
+.DS_Store
