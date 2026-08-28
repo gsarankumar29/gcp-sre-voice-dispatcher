@@ -4,7 +4,7 @@ An AI-powered Site Reliability Engineering (SRE) incident response system that r
 
 Designed specifically for monitoring and responding to critical failures involving **Google Cloud Run services and jobs**, this system processes high-severity incidents and initiates an automated voice escalation workflow, reducing the reliance on manual dashboard monitoring.
 
-> **⚠️ Note on Production Use:** The project currently supports a fully tested simulation workflow. Real production voice calling depends on Vapi account configuration, supported phone numbers, and active subscription capabilities.
+> **⚠️ Note:** The project currently supports a fully tested simulation workflow. Real production voice calling depends on Vapi account configuration, supported phone numbers, and active subscription capabilities.
 
 ---
 
